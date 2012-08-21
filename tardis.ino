@@ -1,6 +1,10 @@
 /**
  * Tardis
  * 
+ * Authors:
+ *   Olivia Stephens
+ *   Mark Stephens
+ *
  * + Hardware:
  * + Components
  * - SD Card
